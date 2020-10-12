@@ -1,0 +1,36 @@
+head {
+    text-align : center;
+}
+
+#games {
+  
+        height : 600px ;
+    background-color : palevioletred ;
+}
+
+#chatbots {
+   
+        height :600px;
+    background-color : darkorange ;
+}
+.line {
+    Width : 500px;
+    height : 3px ;
+    margin: inherit ;
+}
+img {
+    transition: transform 0.12s;
+} 
+img :hover {
+transform :scale(0.91);
+}
+#HeadTitle:hover {
+    color:blue ;
+}
+#app1{
+    padding-right: 200px
+}
+body {
+    text-align : center ;
+    
+}
