@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(to left,black, red,orange,yellow,green,blue,indigo,violet,brown); 
+ text-align : center ; 
+}
+h1 {
+color : white ;
+}
+h2 {
+  color : white ;
+}
+img {
+width : 150px ;
+  height:150px ;
+  border-radius:50%;
+}
+.line {
+  height :2px;
+  color: black ;
+  background-color:black;
+}
+p {
+color : white ;
+}
