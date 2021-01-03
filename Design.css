@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to left,black, red,orange,yellow,green,blue,indigo,violet,brown); 
+  background-image: linear-gradient(to left, red,orange,yellow,green,blue,indigo,violet); 
  text-align : center ; 
 }
 h1 {
@@ -20,4 +20,8 @@ width : 150px ;
 }
 p {
 color : white ;
+}
+.menu {
+display: inline ; 
+color:antiquewhite; 
 }
